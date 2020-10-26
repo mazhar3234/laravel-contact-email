@@ -1,0 +1,19 @@
+{
+    "name": "mazhar/contact",
+    "description": "This will send email to admin and save contact query to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mazharul",
+            "email": "mazharulslm9@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mazhar\\Contact\\": "src/"
+        }
+    }
+}
