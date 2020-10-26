@@ -19,6 +19,7 @@
           <div class="col-lg-8 offset-lg-2">
     
             <h4 class="text-center">Contact Us</h4>
+            <p>Don't hesiate to contact us</p>
             <hr>
             <form id="contact-form" method="post" action="{{ route('save-contact') }}" role="form">
     @csrf
